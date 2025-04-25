@@ -70,14 +70,15 @@ main {
 .temp-number {
   font-size: 88px;
   font-weight: bold;
+  line-height: 88px;
   margin-left: 10px;
 }
 .temp-icon {
-  font-size: 44px;
-  margin-top: 22px;
+  width: 100px;
+  height: 100px;
 }
 .temp-unit {
-  margin-top: 20px;
+  margin-top: 6px;
   font-size: 28px;
 }
 footer {
